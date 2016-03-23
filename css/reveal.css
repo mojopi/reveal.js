@@ -56,6 +56,17 @@ html:-moz-full-screen-ancestor {
 /*********************************************
  * VIEW FRAGMENTS
  *********************************************/
+
+
+/*#mango:hover{
+  opacity:0.0;
+  transition: 1s;
+ }*/
+ 
+ #mango{
+  opacity:0.0;
+ }
+
 .reveal .slides section .fragment {
   opacity: 0;
   visibility: hidden;
