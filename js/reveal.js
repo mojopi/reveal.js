@@ -6,10 +6,10 @@
  * Copyright (C) 2016 Hakim El Hattab, http://hakim.se
  */
 
- var molly = document.getElementById('molly');
- var mang = document.getElementById("mango")
- molly.addEventListener("mouseenter", function(){mango.style.opacity="1.0"});
- molly.addEventListener("mouseout", function(){mango.style.opacity="0.0"});
+ // var molly = document.getElementById('molly');
+ // var mang = document.getElementById("mango")
+ // molly.addEventListener("mouseenter", function(){mango.style.opacity="1.0"});
+ // molly.addEventListener("mouseout", function(){mango.style.opacity="0.0"});
 
 
 (function( root, factory ) {
